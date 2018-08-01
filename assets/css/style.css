@@ -25,7 +25,7 @@
 
 .headbox{
     color:#ffffff;
-    background-color: #4aaaaf;
+    
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 24px;
@@ -38,7 +38,18 @@
     padding-left:5px;
 }
 
+
 .maincontent {background-color:#ffffff;
     border: 3px solid #dddddd;
    }
+.mainsectiontitle {
+    color: #086ff5;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
    
+}
+.footer{
+    justify-content: center;
+    vertical-align: center;
+    color: #ffffff;
+}  
